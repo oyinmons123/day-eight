@@ -46,10 +46,10 @@ body {
     top: -360px;
   }
 }
-.dynamic-txts div span {
+.dynamic-txts span {
   position: relative;
 }
-.dynamic-txts div span::after {
+.dynamic-txts span::after {
   content: "";
   position: absolute;
   left: 0;
